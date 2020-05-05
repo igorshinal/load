@@ -1,0 +1,10 @@
+{
+    "name": "ddos/proj",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "Load/"
+        ]
+    }
+}
+
