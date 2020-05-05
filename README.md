@@ -1,3 +1,3 @@
 # load repository
-Start script run 
+composer install
 php index.php
